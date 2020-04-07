@@ -1,2 +1,3 @@
-# casusopdracht
- Redouan, Maurits, Eric Data Science casus opdracht
+# Casusopdracht
+ Redouan, Maurits, Eric Data Science Casus Opdracht
+ Klas: V2A
